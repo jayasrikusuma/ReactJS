@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm instal`
+### `npm install --save react-router-dom`
+### `npm install --save react-router-dom`
+### `npm install --save use-query-params`
+
 ### `npm start`
 
 Runs the app in the development mode.\
