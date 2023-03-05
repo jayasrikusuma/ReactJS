@@ -1,0 +1,98 @@
+[{
+            "type":"landmark",
+            "landmark_name":"Statue of Liberty",
+            "city":"New York City",
+            "category":"statue",
+            "fact":"A gift to the United States from the people of France.",
+            "location":{
+                "latitude":40.689244,
+                "longitude":-74.044514
+            },
+            "image": "https://th.bing.com/th/id/R.810e6a090955306d5470920ad1500965?rik=CdZpUdZvQPpZ%2fQ&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f170000%2fvelka%2fstatue-of-liberty-1462952271N1W.jpg&ehk=KrWBTA11dwKOpWPczRfTilAmZwWHhclzM4nDFJl%2buM4%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "type":"landmark",
+            "landmark_name":"Golden Gate Bridge",
+            "city":"San Francisco",
+            "category":"bridge",
+            "fact":"There are approximately 600,000 rivets in each tower.",
+            "location":{
+                "latitude":37.821257,
+                "longitude":-122.478787
+            },
+            "image": "https://th.bing.com/th/id/OIP.b1jatSAOMoZjez5fhjdMwwHaEK?w=314&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "type":"landmark",
+            "landmark_name":"Spirit of Detroit",
+            "city":"Detroit",
+            "category":"statue",
+            "fact":"It was commissioned in 1955 for a cost of $58,000.",
+            "location":{
+                "latitude":42.3293,
+                "longitude":-83.0446
+            },
+            "image": "https://th.bing.com/th?id=Am9ZgeEM2ZdnHkA480x360&w=210&h=140&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        },
+        {
+            "type":"landmark",
+            "landmark_name":"Ambassador Bridge",
+            "city":"Detroit",
+            "category":"bridge",
+            "fact":"The bridge carries approximately 25 percentage of trade between Canada and the United States.",
+            "location":{
+                "latitude":42.3119,
+                "longitude":-83.0741
+            },
+            "image": "https://www.rcinet.ca/en/wp-content/uploads/sites/3/2020/05/23205339.jpg"
+        },
+        {
+            "type":"landmark",
+            "landmark_name":"Renaissance Center",
+            "city":"Detroit",
+            "category":"skyscraper",
+            "fact":"The first tower of the Renaissance Center opened on July 1, 1976.",
+            "location":{
+                "latitude":42.3290,
+                "longitude":-83.0397
+            },
+            "image": "https://th.bing.com/th/id/OIP.Rf-L8BksZB03BrwguQjVagHaFj?w=249&h=187&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "type":"landmark",
+            "landmark_name":"Mount Rushmore",
+            "city":"Keystone",
+            "category":"statue",
+            "fact":"The memorial was iconically used as the location of the climactic chase scene in Alfred Hitchcock's 1959 movie North by Northwest.",
+            "location":{
+                "latitude":43.8789,
+                "longitude":-103.4598
+            },
+            "image": "https://th.bing.com/th?id=OIP.oGzFfvMJ-IY0mtbQii4raQHaFG&w=301&h=207&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        },
+	{
+	    "type":"landmark",
+	    "landmark_name":"CN Tower",
+	    "city":"Toronto",
+	    "category":"skyscraper",
+	    "fact":"The idea of the CN Tower originated in 1968 when the Canadian National Railway had a desire to build a large TV and radio communication platform to serve the Toronto area.",
+	    "location":{
+		"latitude":43.6426,
+		"longitude":-79.3871
+	     },
+         "image": "https://th.bing.com/th?id=ATyynM2EuahLF0Q480x360&w=210&h=140&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        
+	},
+	{
+	    "type":"landmark",
+	    "landmark_name":"Casa Loma",
+	    "city":"Toronto",
+	    "category":"residence",
+	    "fact":"It was originally a residence for financier Sir Henry Mill Pellatt.",
+	    "location":{
+		"latitude":43.6780,
+		"longitude":-79.4094
+	     },
+         "image": "https://th.bing.com/th?id=OIP.DzRV-Vze-Dd7QMa1wdcZEwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+	}
+]
